@@ -2,7 +2,7 @@
   <info>
     <name>LOAD_S_TERR</name>
     <description>Caricamento della Dimensione da file di testo</description>
-    <extended_description>Il file sorgente &#xe8; ottenuto come export della query su MDB del territorio &#x28;rif. Alan Buda&#x29;</extended_description>
+    <extended_description>Il file sorgente &#xe8; ottenuto come export della query su MDB del territorio &#x28;</extended_description>
     <trans_version>1.0</trans_version>
     <trans_type>Normal</trans_type>
     <trans_status>2</trans_status>
